@@ -11,7 +11,4 @@ A complete solution for handling bank client data is the bank customer support c
 
 The project utilizes MySQL for database management. (with optional AWS RDS). 
 
-***Please make sure that this document and the code repository do not contain any sensitive information, such as passwords, API tokens or personal data.***
-
-license:
-This project is licensed under the MIT License.
+***Please make sure that this document and the code repository do not contain any sensitive information, such as passwords, API tokens or personal data**

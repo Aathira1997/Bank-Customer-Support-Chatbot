@@ -5,10 +5,10 @@ fake = Faker()
 
 try:
     conn = mysql.connector.connect(
-        host="hostname",
-        user="username",  
-        password="password",  
-        database="database name"  
+        host="",
+        user="",  
+        password="",  
+        database=""  
     )
     cursor = conn.cursor()
 

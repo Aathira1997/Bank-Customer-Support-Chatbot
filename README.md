@@ -1,5 +1,5 @@
 # Bank Customer Support Chatbot 
-A complete solution for handling bank client data is the bank customer support chatbot. This system makes use of SQL, Python, and cutting-edge technologies like Streamlit and Large Language Models (LLMs) to enable secure and effective user interactions and data management.
+A complete solution for handling bank client data is the bank customer support chatbot. This system makes use of SQL, Python and cutting-edge technologies like Streamlit and Large Language Models (LLMs) to enable secure and effective user interactions and data management.
 
  The primary features of this system include:
 
